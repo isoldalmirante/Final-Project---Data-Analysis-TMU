@@ -2,11 +2,11 @@
 
 Analysis of Portuguese Banking Institution's Direct Marketing Campaigns: Predictive Modeling and Strategy Enhancement
 
+Programming language used: Python
+
 GitHub Contents:
 1. Dataset used in this project: bank-full.csv
-2. 
-
-PDF Files:
-1. Abstract: Big Data Analytics Project - Abstract.pdf
-2. Literature Review: Big Data Analytics Project - Literature Review.pdf
-3. Initial Results:
+2. Abstract: Big Data Analytics Project - Abstract.pdf
+3. Literature Review: Big Data Analytics Project - Literature Review.pdf
+4. Initial Results:
+5. Codes: 
