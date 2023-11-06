@@ -10,4 +10,4 @@ GitHub Contents:
 3. Literature Review: Big Data Analytics Project - Literature Review.pdf
 4. Code (first part): Final_Project_Bank_Marketing_Analysis_CIND820.ipynb
 5. Initial Results:
-6. Code (all codes): 
+6. Code (complete): 
