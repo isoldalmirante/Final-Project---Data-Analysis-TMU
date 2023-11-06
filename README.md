@@ -8,5 +8,6 @@ GitHub Contents:
 1. Dataset used in this project: bank-full.csv
 2. Abstract: Big Data Analytics Project - Abstract.pdf
 3. Literature Review: Big Data Analytics Project - Literature Review.pdf
-4. Initial Results:
-5. Codes: 
+4. Codes (first part): 
+5. Initial Results:
+6. Codes: 
