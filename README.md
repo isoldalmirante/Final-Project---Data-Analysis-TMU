@@ -4,10 +4,12 @@ Analysis of Portuguese Banking Institution's Direct Marketing Campaigns: Predict
 
 Programming language used: Python
 
+Models:
+1. Logistic Regression
+2. Radom Forest
+3. Naïve Bayes
+
 GitHub Contents:
 1. Dataset used in this project: bank-full.csv
-2. Abstract: Big Data Analytics Project - Abstract.pdf
-3. Literature Review: Big Data Analytics Project - Literature Review.pdf
-4. Code (first part): Final_Project_Bank_Marketing_Analysis_CIND820.ipynb
-5. Initial Results:
-6. Code (complete): 
+2. Technical report (Abstract; Literature Review; Initial Results): CIND820 - Big Data Analytics Project - D1H - Student 501241365 - Technical Reports.pdf
+3. Code: Final_Project_Bank_Marketing_Analysis_CIND820.ipymb
