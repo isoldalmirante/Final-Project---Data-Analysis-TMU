@@ -11,6 +11,6 @@ Models:
 
 GitHub Contents:
 1. Dataset used in this project: bank-full.csv
-2. Technical report (Abstract; Literature Review; Initial Results; Final Results): CIND820 - Big Data Analytics Project - D1H - Student 501241365 - Technical Reports.pdf
+2. Technical report (Abstract; Literature Review; Initial Results): CIND820 - Big Data Analytics Project - D1H - Student 501241365 - Technical Reports.pdf
 3. Code: Final_Project_Bank_Marketing_Analysis_CIND820.ipymb
 4. Final Results and Project Report: TMU - Final Project Report - Student ID - 501241365.pdf
